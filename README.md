@@ -1,7 +1,7 @@
 # Hi, I'm Oliv! 👋
 
 ## 🌱 About Me
-I’m a student majoring in Information System and Technoloy at Institut Teknologi Bandung. Passionate about **database engineering, quality assurance, and product management**, I enjoy leveraging **data and technology** to build efficient, scalable, and impactful systems.
+I’m a student majoring in Information System and Technology at Institut Teknologi Bandung. Passionate about **database engineering, quality assurance, and product management**, I enjoy leveraging **data and technology** to build efficient, scalable, and impactful systems.
 
 - 📊 Exploring **database management, system architecture, and automation testing**.
 - 🔍 Interested in **QA processes, product development, and user experience optimization**.
